@@ -1,0 +1,185 @@
+// this file was generated from Destroyed Face .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=659 end=425471 loop_mode=loop_sustain loop_start=179880 loop_end=244359 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-36-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=460 end=420863 loop_mode=loop_sustain loop_start=197901 loop_end=219395 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-36-127.wav
+<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=319 end=428031 loop_mode=loop_sustain loop_start=187958 loop_end=241229 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-37-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=545 end=423423 loop_mode=loop_sustain loop_start=183102 loop_end=241484 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=378 end=424959 loop_mode=loop_sustain loop_start=208027 loop_end=222413 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-38-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=439 end=424447 loop_mode=loop_sustain loop_start=176885 loop_end=241560 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=319 end=421375 loop_mode=loop_sustain loop_start=176748 loop_end=242279 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-39-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=668 end=422911 loop_mode=loop_sustain loop_start=188728 loop_end=244049 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=419 end=422399 loop_mode=loop_sustain loop_start=177016 loop_end=202600 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-40-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=333 end=426495 loop_mode=loop_sustain loop_start=210233 loop_end=235842 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=463 end=424959 loop_mode=loop_sustain loop_start=176699 loop_end=237123 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-41-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=398 end=426495 loop_mode=loop_sustain loop_start=178279 loop_end=236706 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=542 end=426495 loop_mode=loop_sustain loop_start=191888 loop_end=218516 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-42-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=359 end=422399 loop_mode=loop_sustain loop_start=192667 loop_end=218321 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=695 end=428031 loop_mode=loop_sustain loop_start=183268 loop_end=198507 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-43-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=410 end=431103 loop_mode=loop_sustain loop_start=177498 loop_end=242040 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=638 end=425471 loop_mode=loop_sustain loop_start=180980 loop_end=244468 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-44-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=367 end=424959 loop_mode=loop_sustain loop_start=206097 loop_end=220497 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=707 end=426495 loop_mode=loop_sustain loop_start=192701 loop_end=218281 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-45-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=668 end=424447 loop_mode=loop_sustain loop_start=194021 loop_end=212418 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=229 end=424447 loop_mode=loop_sustain loop_start=196515 loop_end=225185 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-46-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=542 end=424959 loop_mode=loop_sustain loop_start=178197 loop_end=192525 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=399 end=422399 loop_mode=loop_sustain loop_start=183397 loop_end=225358 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-47-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=388 end=425983 loop_mode=loop_sustain loop_start=205903 loop_end=238634 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=423423 loop_mode=loop_sustain loop_start=177738 loop_end=242265 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-48-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=235 end=422911 loop_mode=loop_sustain loop_start=207521 loop_end=224325 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=385 end=423423 loop_mode=loop_sustain loop_start=208922 loop_end=235581 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-49-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=400 end=425983 loop_mode=loop_sustain loop_start=212848 loop_end=239541 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=330 end=424959 loop_mode=loop_sustain loop_start=183085 loop_end=198651 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-50-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=649 end=424447 loop_mode=loop_sustain loop_start=184752 loop_end=238006 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=602 end=422399 loop_mode=loop_sustain loop_start=184311 loop_end=227221 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-51-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=343 end=422399 loop_mode=loop_sustain loop_start=190841 loop_end=238278 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=650 end=424959 loop_mode=loop_sustain loop_start=210718 loop_end=237405 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-52-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=273 end=425471 loop_mode=loop_sustain loop_start=215584 loop_end=242253 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=241 end=426495 loop_mode=loop_sustain loop_start=175874 loop_end=209620 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-53-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=400 end=426495 loop_mode=loop_sustain loop_start=220922 loop_end=243582 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=568 end=425471 loop_mode=loop_sustain loop_start=192796 loop_end=219395 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-54-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=395 end=425471 loop_mode=loop_sustain loop_start=212501 loop_end=239088 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=598 end=423935 loop_mode=loop_sustain loop_start=220926 loop_end=242440 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-55-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=481 end=423423 loop_mode=loop_sustain loop_start=190222 loop_end=208607 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=260 end=425471 loop_mode=loop_sustain loop_start=194026 loop_end=212651 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-56-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=550 end=424447 loop_mode=loop_sustain loop_start=201586 loop_end=228268 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=425983 loop_mode=loop_sustain loop_start=215425 loop_end=241021 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-57-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=356 end=425983 loop_mode=loop_sustain loop_start=203164 loop_end=232340 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=364 end=425471 loop_mode=loop_sustain loop_start=193247 loop_end=220019 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-58-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=448 end=422911 loop_mode=loop_sustain loop_start=205136 loop_end=220582 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=423935 loop_mode=loop_sustain loop_start=184772 loop_end=216790 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-59-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=588 end=421375 loop_mode=loop_sustain loop_start=182838 loop_end=196724 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=553 end=423423 loop_mode=loop_sustain loop_start=188508 loop_end=234888 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-60-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=618 end=425983 loop_mode=loop_sustain loop_start=216851 loop_end=230300 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=307 end=422399 loop_mode=loop_sustain loop_start=205751 loop_end=243517 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-61-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=362 end=422399 loop_mode=loop_sustain loop_start=224526 loop_end=238794 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=694 end=422911 loop_mode=loop_sustain loop_start=196277 loop_end=221705 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-62-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=504 end=424959 loop_mode=loop_sustain loop_start=223845 loop_end=239098 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=428 end=424447 loop_mode=loop_sustain loop_start=225510 loop_end=243022 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-63-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=524 end=425983 loop_mode=loop_sustain loop_start=182880 loop_end=206912 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=426495 loop_mode=loop_sustain loop_start=187864 loop_end=225476 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-64-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=311 end=424447 loop_mode=loop_sustain loop_start=215529 loop_end=241949 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=338 end=423423 loop_mode=loop_sustain loop_start=185869 loop_end=223636 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-65-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=243 end=421887 loop_mode=loop_sustain loop_start=186188 loop_end=203301 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=441 end=424959 loop_mode=loop_sustain loop_start=213617 loop_end=233078 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-66-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=627 end=428031 loop_mode=loop_sustain loop_start=211540 loop_end=241464 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=403 end=424959 loop_mode=loop_sustain loop_start=179533 loop_end=240086 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-67-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=623 end=428543 loop_mode=loop_sustain loop_start=223600 loop_end=241993 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=647 end=424959 loop_mode=loop_sustain loop_start=194295 loop_end=221407 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-68-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=459 end=424959 loop_mode=loop_sustain loop_start=220862 loop_end=244404 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=327 end=426495 loop_mode=loop_sustain loop_start=194233 loop_end=227998 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-69-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=378 end=424447 loop_mode=loop_sustain loop_start=193633 loop_end=210208 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=729 end=424959 loop_mode=loop_sustain loop_start=195412 loop_end=218398 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-70-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=640 end=426495 loop_mode=loop_sustain loop_start=222618 loop_end=239390 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=598 end=425471 loop_mode=loop_sustain loop_start=193061 loop_end=240261 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-71-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=325 end=423423 loop_mode=loop_sustain loop_start=224065 loop_end=239554 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=340 end=455679 loop_mode=loop_sustain loop_start=187782 loop_end=226617 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-72-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=689 end=422911 loop_mode=loop_sustain loop_start=215088 loop_end=229371 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=388 end=427519 loop_mode=loop_sustain loop_start=182516 loop_end=197894 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-73-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=240 end=428031 loop_mode=loop_sustain loop_start=214546 loop_end=237514 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=427007 loop_mode=loop_sustain loop_start=193754 loop_end=219182 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-74-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=571 end=424959 loop_mode=loop_sustain loop_start=222073 loop_end=237050 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=431 end=425471 loop_mode=loop_sustain loop_start=206233 loop_end=242549 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-75-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=608 end=424447 loop_mode=loop_sustain loop_start=225376 loop_end=240926 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=433 end=425471 loop_mode=loop_sustain loop_start=215297 loop_end=233836 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-76-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=346 end=427007 loop_mode=loop_sustain loop_start=220451 loop_end=235512 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=328 end=423935 loop_mode=loop_sustain loop_start=176657 loop_end=203316 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-77-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=379 end=423935 loop_mode=loop_sustain loop_start=228212 loop_end=244063 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=316 end=421887 loop_mode=loop_sustain loop_start=195212 loop_end=219209 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-78-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=553 end=422399 loop_mode=loop_sustain loop_start=227422 loop_end=242743 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=315 end=423423 loop_mode=loop_sustain loop_start=186200 loop_end=219742 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-79-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=227 end=424447 loop_mode=loop_sustain loop_start=225343 loop_end=243656 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=423935 loop_mode=loop_sustain loop_start=203081 loop_end=241077 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-80-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=537 end=424447 loop_mode=loop_sustain loop_start=207690 loop_end=228319 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=324 end=423423 loop_mode=loop_sustain loop_start=177684 loop_end=209616 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-81-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=502 end=425471 loop_mode=loop_sustain loop_start=195275 loop_end=244193 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=445 end=422911 loop_mode=loop_sustain loop_start=194093 loop_end=221361 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-82-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=262 end=421887 loop_mode=loop_sustain loop_start=223413 loop_end=240762 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=685 end=425983 loop_mode=loop_sustain loop_start=192536 loop_end=220672 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-83-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=397 end=426495 loop_mode=loop_sustain loop_start=217498 loop_end=242690 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=423423 loop_mode=loop_sustain loop_start=193249 loop_end=220706 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-84-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=345 end=423935 loop_mode=loop_sustain loop_start=210295 loop_end=243699 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=306 end=423935 loop_mode=loop_sustain loop_start=191662 loop_end=218444 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-85-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=412 end=422911 loop_mode=loop_sustain loop_start=182840 loop_end=203772 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=422911 loop_mode=loop_sustain loop_start=192478 loop_end=218890 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-86-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=457 end=421887 loop_mode=loop_sustain loop_start=194121 loop_end=216657 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=575 end=423423 loop_mode=loop_sustain loop_start=186041 loop_end=201241 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-87-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=401 end=422399 loop_mode=loop_sustain loop_start=180867 loop_end=195845 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=422911 loop_mode=loop_sustain loop_start=189010 loop_end=225998 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-88-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=572 end=421887 loop_mode=loop_sustain loop_start=187010 loop_end=210653 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=425471 loop_mode=loop_sustain loop_start=190281 loop_end=228393 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-89-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=382 end=420863 loop_mode=loop_sustain loop_start=221004 loop_end=236369 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=348 end=422911 loop_mode=loop_sustain loop_start=205374 loop_end=242440 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-90-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=318 end=423423 loop_mode=loop_sustain loop_start=218112 loop_end=241882 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=548 end=422911 loop_mode=loop_sustain loop_start=211331 loop_end=240785 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-91-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=276 end=420863 loop_mode=loop_sustain loop_start=208989 loop_end=224291 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=454 end=421375 loop_mode=loop_sustain loop_start=209070 loop_end=244019 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-92-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=401 end=420351 loop_mode=loop_sustain loop_start=209470 loop_end=242523 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=295 end=423935 loop_mode=loop_sustain loop_start=184162 loop_end=223564 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-93-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=363 end=421375 loop_mode=loop_sustain loop_start=209580 loop_end=226570 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=246 end=420351 loop_mode=loop_sustain loop_start=189915 loop_end=226367 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-94-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=303 end=418303 loop_mode=loop_sustain loop_start=212143 loop_end=228658 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=663 end=419839 loop_mode=loop_sustain loop_start=207098 loop_end=240836 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-95-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=233 end=419327 loop_mode=loop_sustain loop_start=210565 loop_end=232320 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=218 end=420351 loop_mode=loop_sustain loop_start=189495 loop_end=222725 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-96-107.wav
+	<region> lovel=045 hivel=127 amp_velcurve_127=1 offset=540 end=419839 loop_mode=loop_sustain loop_start=186749 loop_end=201569 sample=../Audio/Destroyed Face 1-SAMPLES/Destroyed Face-96-127.wav

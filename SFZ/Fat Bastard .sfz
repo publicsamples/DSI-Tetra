@@ -1,0 +1,124 @@
+// this file was generated from Fat Bastard .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=431615 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-36-127.wav
+<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=527 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=389 end=423423 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=242 end=425983 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=675 end=428543 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=284 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=485 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=453 end=428031 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=641 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=622 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=455 end=423423 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=635 end=426495 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=695 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=691 end=422399 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=387 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=699 end=426495 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=702 end=422911 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=663 end=423423 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=732 end=430079 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=671 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=238 end=422399 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=389 end=423935 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=428 end=431103 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=614 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=710 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=758 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=688 end=430591 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=734 end=422399 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=637 end=422911 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=499 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=354 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=450 end=423935 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=313 end=423423 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=401 end=423423 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=414 end=428031 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=700 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=322 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=283 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=503 end=425983 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=421 end=425471 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=591 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=624 end=427519 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=422911 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=615 end=426495 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=715 end=430591 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=460 end=426495 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=326 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=515 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=704 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=275 end=426495 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=534 end=425983 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=440 end=424447 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=509 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=252 end=427519 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=427519 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=424959 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=428543 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=629 end=427519 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=645 end=427007 sample=../Audio/Fat Bastard 1-SAMPLES/Fat Bastard-96-127.wav

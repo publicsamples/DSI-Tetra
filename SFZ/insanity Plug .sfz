@@ -1,0 +1,185 @@
+// this file was generated from insanity Plug .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1134 end=581119 loop_mode=loop_sustain loop_start=219738 loop_end=321010 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-36-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=930 end=577535 loop_mode=loop_sustain loop_start=303753 loop_end=395157 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-36-127_0001.wav
+<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1016 end=582143 loop_mode=loop_sustain loop_start=203988 loop_end=288623 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-37-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=999 end=578047 loop_mode=loop_sustain loop_start=40873 loop_end=394875 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=880 end=580607 loop_mode=loop_sustain loop_start=179853 loop_end=287200 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-38-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=906 end=578047 loop_mode=loop_sustain loop_start=73604 loop_end=158619 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=965 end=579583 loop_mode=loop_sustain loop_start=83235 loop_end=387710 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-39-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=840 end=577535 loop_mode=loop_sustain loop_start=247442 loop_end=396530 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1004 end=580095 loop_mode=loop_sustain loop_start=39085 loop_end=176723 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-40-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=544 end=578047 loop_mode=loop_sustain loop_start=239125 loop_end=393803 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=625 end=579583 loop_mode=loop_sustain loop_start=40143 loop_end=155620 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-41-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=703 end=580095 loop_mode=loop_sustain loop_start=82572 loop_end=202385 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1012 end=582143 loop_mode=loop_sustain loop_start=38153 loop_end=168904 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-42-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=948 end=577023 loop_mode=loop_sustain loop_start=201419 loop_end=284105 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1020 end=581631 loop_mode=loop_sustain loop_start=44597 loop_end=179180 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-43-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=811 end=580607 loop_mode=loop_sustain loop_start=135772 loop_end=219652 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=633 end=582143 loop_mode=loop_sustain loop_start=26852 loop_end=205548 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-44-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=773 end=586239 loop_mode=loop_sustain loop_start=54893 loop_end=138244 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=750 end=590335 loop_mode=loop_sustain loop_start=259315 loop_end=384630 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-45-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=687 end=573439 loop_mode=loop_sustain loop_start=221351 loop_end=318060 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1013 end=579583 loop_mode=loop_sustain loop_start=146648 loop_end=227360 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-46-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=997 end=577023 loop_mode=loop_sustain loop_start=41947 loop_end=145272 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1102 end=577535 loop_mode=loop_sustain loop_start=35676 loop_end=120793 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-47-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=1101 end=577535 loop_mode=loop_sustain loop_start=277557 loop_end=362978 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=748 end=580607 loop_mode=loop_sustain loop_start=72592 loop_end=181684 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-48-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=759 end=578047 loop_mode=loop_sustain loop_start=146034 loop_end=400769 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=715 end=576511 loop_mode=loop_sustain loop_start=127266 loop_end=375145 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-49-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=530 end=579071 loop_mode=loop_sustain loop_start=175207 loop_end=266571 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=891 end=577023 loop_mode=loop_sustain loop_start=31946 loop_end=372887 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-50-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=625 end=575487 loop_mode=loop_sustain loop_start=148545 loop_end=231736 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=998 end=581631 loop_mode=loop_sustain loop_start=146611 loop_end=373556 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-51-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=767 end=575487 loop_mode=loop_sustain loop_start=196935 loop_end=283955 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=799 end=578047 loop_mode=loop_sustain loop_start=30522 loop_end=230195 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-52-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=574 end=576511 loop_mode=loop_sustain loop_start=84578 loop_end=372192 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=504 end=577023 loop_mode=loop_sustain loop_start=25480 loop_end=288134 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-53-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=948 end=578047 loop_mode=loop_sustain loop_start=109809 loop_end=383779 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=762 end=575999 loop_mode=loop_sustain loop_start=33659 loop_end=228071 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-54-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=906 end=580607 loop_mode=loop_sustain loop_start=227309 loop_end=352046 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=630 end=575487 loop_mode=loop_sustain loop_start=186649 loop_end=365061 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-55-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=796 end=576511 loop_mode=loop_sustain loop_start=31326 loop_end=146165 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=960 end=582143 loop_mode=loop_sustain loop_start=254860 loop_end=337598 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-56-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=602 end=573951 loop_mode=loop_sustain loop_start=291469 loop_end=374337 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=521 end=577023 loop_mode=loop_sustain loop_start=32634 loop_end=227634 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-57-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=827 end=577023 loop_mode=loop_sustain loop_start=105106 loop_end=400333 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=615 end=577535 loop_mode=loop_sustain loop_start=274309 loop_end=381847 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-58-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=860 end=576511 loop_mode=loop_sustain loop_start=206713 loop_end=298298 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=785 end=575999 loop_mode=loop_sustain loop_start=233104 loop_end=355532 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-59-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=613 end=580095 loop_mode=loop_sustain loop_start=199188 loop_end=290273 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=756 end=578559 loop_mode=loop_sustain loop_start=26903 loop_end=157603 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-60-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=893 end=573439 loop_mode=loop_sustain loop_start=211191 loop_end=373860 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=623 end=574463 loop_mode=loop_sustain loop_start=147985 loop_end=249814 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-61-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=857 end=575999 loop_mode=loop_sustain loop_start=108022 loop_end=190380 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=506 end=577023 loop_mode=loop_sustain loop_start=299953 loop_end=381320 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-62-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=976 end=574975 loop_mode=loop_sustain loop_start=275847 loop_end=398578 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=718 end=574463 loop_mode=loop_sustain loop_start=192746 loop_end=281407 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-63-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=860 end=575487 loop_mode=loop_sustain loop_start=138070 loop_end=380814 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=737 end=573439 loop_mode=loop_sustain loop_start=300157 loop_end=394783 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-64-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=619 end=578047 loop_mode=loop_sustain loop_start=25958 loop_end=148069 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=794 end=573951 loop_mode=loop_sustain loop_start=30966 loop_end=150364 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-65-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=981 end=577535 loop_mode=loop_sustain loop_start=204738 loop_end=320035 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=631 end=574975 loop_mode=loop_sustain loop_start=29037 loop_end=127613 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-66-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=860 end=574463 loop_mode=loop_sustain loop_start=225932 loop_end=400859 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=963 end=573951 loop_mode=loop_sustain loop_start=164714 loop_end=316015 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-67-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=635 end=576511 loop_mode=loop_sustain loop_start=173411 loop_end=386085 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=630 end=573439 loop_mode=loop_sustain loop_start=143797 loop_end=258314 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-68-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=492 end=577023 loop_mode=loop_sustain loop_start=164713 loop_end=392827 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1003 end=573951 loop_mode=loop_sustain loop_start=152530 loop_end=246645 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-69-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=740 end=573439 loop_mode=loop_sustain loop_start=145988 loop_end=394561 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=878 end=575487 loop_mode=loop_sustain loop_start=85863 loop_end=176156 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-70-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=731 end=576511 loop_mode=loop_sustain loop_start=33385 loop_end=315056 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=741 end=574463 loop_mode=loop_sustain loop_start=254610 loop_end=353418 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-71-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=1020 end=575999 loop_mode=loop_sustain loop_start=125659 loop_end=392339 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=884 end=578047 loop_mode=loop_sustain loop_start=210976 loop_end=367455 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-72-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=867 end=577023 loop_mode=loop_sustain loop_start=267632 loop_end=369255 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=895 end=578559 loop_mode=loop_sustain loop_start=253454 loop_end=381377 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-73-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=488 end=574975 loop_mode=loop_sustain loop_start=229844 loop_end=318869 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=508 end=573951 loop_mode=loop_sustain loop_start=287500 loop_end=376705 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-74-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=767 end=575999 loop_mode=loop_sustain loop_start=123026 loop_end=228041 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=574463 loop_mode=loop_sustain loop_start=205124 loop_end=290753 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-75-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=1023 end=578047 loop_mode=loop_sustain loop_start=144378 loop_end=327995 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=508 end=574975 loop_mode=loop_sustain loop_start=114601 loop_end=214968 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-76-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=1022 end=577023 loop_mode=loop_sustain loop_start=174073 loop_end=261875 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=445 end=575487 loop_mode=loop_sustain loop_start=21875 loop_end=340413 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-77-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=494 end=573951 loop_mode=loop_sustain loop_start=39196 loop_end=141706 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=765 end=575999 loop_mode=loop_sustain loop_start=169206 loop_end=256176 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-78-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=749 end=575487 loop_mode=loop_sustain loop_start=202304 loop_end=398927 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=638 end=576511 loop_mode=loop_sustain loop_start=37333 loop_end=134748 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-79-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=760 end=577023 loop_mode=loop_sustain loop_start=236184 loop_end=396020 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=572927 loop_mode=loop_sustain loop_start=296021 loop_end=377622 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-80-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=497 end=575487 loop_mode=loop_sustain loop_start=165861 loop_end=261415 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=575487 loop_mode=loop_sustain loop_start=74339 loop_end=383727 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-81-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=890 end=577535 loop_mode=loop_sustain loop_start=111814 loop_end=208858 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=717 end=578047 loop_mode=loop_sustain loop_start=21604 loop_end=114378 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-82-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=711 end=574975 loop_mode=loop_sustain loop_start=256970 loop_end=385736 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=578559 loop_mode=loop_sustain loop_start=198017 loop_end=281481 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-83-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=764 end=578559 loop_mode=loop_sustain loop_start=22059 loop_end=110059 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=891 end=574975 loop_mode=loop_sustain loop_start=258934 loop_end=366228 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-84-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=749 end=576511 loop_mode=loop_sustain loop_start=243085 loop_end=394930 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=884 end=574463 loop_mode=loop_sustain loop_start=42551 loop_end=379738 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-85-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=994 end=577023 loop_mode=loop_sustain loop_start=213843 loop_end=382944 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=848 end=574463 loop_mode=loop_sustain loop_start=221921 loop_end=395990 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-86-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=985 end=575487 loop_mode=loop_sustain loop_start=196984 loop_end=355250 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=639 end=577535 loop_mode=loop_sustain loop_start=14578 loop_end=159358 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-87-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=894 end=573951 loop_mode=loop_sustain loop_start=53881 loop_end=146812 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=750 end=574975 loop_mode=loop_sustain loop_start=25062 loop_end=378554 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-88-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=637 end=574975 loop_mode=loop_sustain loop_start=39544 loop_end=226568 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=504 end=572415 loop_mode=loop_sustain loop_start=180363 loop_end=312823 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-89-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=590 end=577535 loop_mode=loop_sustain loop_start=144819 loop_end=224899 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=876 end=575487 loop_mode=loop_sustain loop_start=277154 loop_end=400144 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-90-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=762 end=575999 loop_mode=loop_sustain loop_start=68136 loop_end=155020 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=632 end=572927 loop_mode=loop_sustain loop_start=297706 loop_end=380796 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-91-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=972 end=573951 loop_mode=loop_sustain loop_start=223713 loop_end=317795 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=573951 loop_mode=loop_sustain loop_start=188989 loop_end=376434 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-92-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=740 end=574975 loop_mode=loop_sustain loop_start=223648 loop_end=389879 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=765 end=574463 loop_mode=loop_sustain loop_start=24311 loop_end=107483 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-93-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=591 end=576511 loop_mode=loop_sustain loop_start=229381 loop_end=315866 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=508 end=574975 loop_mode=loop_sustain loop_start=72700 loop_end=157713 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-94-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=879 end=573951 loop_mode=loop_sustain loop_start=140048 loop_end=225011 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=893 end=574975 loop_mode=loop_sustain loop_start=70863 loop_end=164172 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-95-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=762 end=574463 loop_mode=loop_sustain loop_start=179785 loop_end=307193 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=735 end=577023 loop_mode=loop_sustain loop_start=168136 loop_end=258796 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-96-90.wav
+	<region> lovel=028 hivel=127 amp_velcurve_127=1 offset=887 end=575487 loop_mode=loop_sustain loop_start=254834 loop_end=397254 sample=../Audio/insanity Plug 1-SAMPLES/insanity Plug-96-127.wav
