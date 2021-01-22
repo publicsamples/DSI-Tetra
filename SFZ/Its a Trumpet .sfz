@@ -1,124 +1,124 @@
 // this file was generated from Its a Trumpet .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=342 end=277503 loop_mode=loop_sustain loop_start=113842 loop_end=125921 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-36-127.wav
-<group> key=37 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=657 end=280063 loop_mode=loop_sustain loop_start=119484 loop_end=128345 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-37-127.wav
-<group> key=38 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=606 end=282111 loop_mode=loop_sustain loop_start=121625 loop_end=141944 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-38-127.wav
-<group> key=39 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=664 end=279039 loop_mode=loop_sustain loop_start=117143 loop_end=127294 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-39-127.wav
-<group> key=40 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=278527 loop_mode=loop_sustain loop_start=121692 loop_end=145122 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-40-127.wav
-<group> key=41 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=309 end=280575 loop_mode=loop_sustain loop_start=128907 loop_end=149474 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-41-127.wav
-<group> key=42 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=577 end=281087 loop_mode=loop_sustain loop_start=120898 loop_end=133218 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-42-127.wav
-<group> key=43 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=619 end=278015 loop_mode=loop_sustain loop_start=112542 loop_end=149609 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-43-127.wav
-<group> key=44 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=443 end=286207 loop_mode=loop_sustain loop_start=127951 loop_end=136387 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-44-127.wav
-<group> key=45 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=278015 loop_mode=loop_sustain loop_start=111276 loop_end=119244 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-45-127.wav
-<group> key=46 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=285183 loop_mode=loop_sustain loop_start=116311 loop_end=148191 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-46-127.wav
-<group> key=47 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=600 end=279039 loop_mode=loop_sustain loop_start=135240 loop_end=143053 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-47-127.wav
-<group> key=48 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=280063 loop_mode=loop_sustain loop_start=125653 loop_end=134366 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-48-127.wav
-<group> key=49 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=322 end=279551 loop_mode=loop_sustain loop_start=110974 loop_end=119198 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-49-127.wav
-<group> key=50 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=547 end=278527 loop_mode=loop_sustain loop_start=113040 loop_end=149653 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-50-127.wav
-<group> key=51 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=317 end=282111 loop_mode=loop_sustain loop_start=138941 loop_end=147963 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-51-127.wav
-<group> key=52 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=280063 loop_mode=loop_sustain loop_start=127055 loop_end=137696 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-52-127.wav
-<group> key=53 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=277 end=279039 loop_mode=loop_sustain loop_start=120463 loop_end=131005 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-53-127.wav
-<group> key=54 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=279039 loop_mode=loop_sustain loop_start=111156 loop_end=151578 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-54-127.wav
-<group> key=55 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=282623 loop_mode=loop_sustain loop_start=109797 loop_end=147959 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-55-127.wav
-<group> key=56 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=282111 loop_mode=loop_sustain loop_start=111297 loop_end=144778 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-56-127.wav
-<group> key=57 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=332 end=279551 loop_mode=loop_sustain loop_start=109607 loop_end=141616 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-57-127.wav
-<group> key=58 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=278527 loop_mode=loop_sustain loop_start=117920 loop_end=151511 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-58-127.wav
-<group> key=59 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=487 end=279551 loop_mode=loop_sustain loop_start=109779 loop_end=141489 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-59-127.wav
-<group> key=60 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=230 end=282111 loop_mode=loop_sustain loop_start=122734 loop_end=151326 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-60-127.wav
-<group> key=61 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=276991 loop_mode=loop_sustain loop_start=111219 loop_end=136001 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-61-127.wav
-<group> key=62 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=675 end=280063 loop_mode=loop_sustain loop_start=128169 loop_end=151847 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-62-127.wav
-<group> key=63 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=367 end=278015 loop_mode=loop_sustain loop_start=115537 loop_end=139014 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-63-127.wav
-<group> key=64 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=210 end=283647 loop_mode=loop_sustain loop_start=128819 loop_end=151238 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-64-127.wav
-<group> key=65 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=238 end=273407 loop_mode=loop_sustain loop_start=128552 loop_end=149968 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-65-127.wav
-<group> key=66 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=344 end=279039 loop_mode=loop_sustain loop_start=114521 loop_end=133080 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-66-127.wav
-<group> key=67 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=454 end=277503 loop_mode=loop_sustain loop_start=122088 loop_end=139606 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-67-127.wav
-<group> key=68 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=460 end=277503 loop_mode=loop_sustain loop_start=133145 loop_end=151576 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-68-127.wav
-<group> key=69 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=278527 loop_mode=loop_sustain loop_start=128991 loop_end=147184 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-69-127.wav
-<group> key=70 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=575 end=280575 loop_mode=loop_sustain loop_start=127177 loop_end=143411 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-70-127.wav
-<group> key=71 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=239 end=274943 loop_mode=loop_sustain loop_start=133798 loop_end=147881 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-71-127.wav
-<group> key=72 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=191 end=278015 loop_mode=loop_sustain loop_start=134923 loop_end=148047 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-72-127.wav
-<group> key=73 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=281087 loop_mode=loop_sustain loop_start=115453 loop_end=141017 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-73-127.wav
-<group> key=74 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=255 end=280575 loop_mode=loop_sustain loop_start=129814 loop_end=143146 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-74-127.wav
-<group> key=75 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=280063 loop_mode=loop_sustain loop_start=132932 loop_end=145372 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-75-127.wav
-<group> key=76 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=279039 loop_mode=loop_sustain loop_start=131874 loop_end=142422 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-76-127.wav
-<group> key=77 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=278015 loop_mode=loop_sustain loop_start=140263 loop_end=150470 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-77-127.wav
-<group> key=78 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=279039 loop_mode=loop_sustain loop_start=116451 loop_end=146183 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-78-127.wav
-<group> key=79 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=276479 loop_mode=loop_sustain loop_start=119047 loop_end=150793 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-79-127.wav
-<group> key=80 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=278527 loop_mode=loop_sustain loop_start=116484 loop_end=125909 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-80-127.wav
-<group> key=81 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=655 end=280575 loop_mode=loop_sustain loop_start=133228 loop_end=149236 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-81-127.wav
-<group> key=82 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=219 end=274431 loop_mode=loop_sustain loop_start=116712 loop_end=146365 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-82-127.wav
-<group> key=83 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=635 end=278015 loop_mode=loop_sustain loop_start=131942 loop_end=146289 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-83-127.wav
-<group> key=84 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=462 end=278015 loop_mode=loop_sustain loop_start=135203 loop_end=149584 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-84-127.wav
-<group> key=85 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=272895 loop_mode=loop_sustain loop_start=125005 loop_end=139284 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-85-127.wav
-<group> key=86 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=279551 loop_mode=loop_sustain loop_start=111533 loop_end=123819 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-86-127.wav
-<group> key=87 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=276991 loop_mode=loop_sustain loop_start=136092 loop_end=147406 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-87-127.wav
-<group> key=88 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=468 end=279039 loop_mode=loop_sustain loop_start=123717 loop_end=145214 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-88-127.wav
-<group> key=89 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=672 end=275455 loop_mode=loop_sustain loop_start=116036 loop_end=144685 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-89-127.wav
-<group> key=90 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=425 end=275967 loop_mode=loop_sustain loop_start=123431 loop_end=150119 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-90-127.wav
-<group> key=91 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=275967 loop_mode=loop_sustain loop_start=132141 loop_end=141347 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-91-127.wav
-<group> key=92 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=545 end=275967 loop_mode=loop_sustain loop_start=139451 loop_end=151749 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-92-127.wav
-<group> key=93 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=267 end=275967 loop_mode=loop_sustain loop_start=124646 loop_end=144056 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-93-127.wav
-<group> key=94 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=275967 loop_mode=loop_sustain loop_start=113148 loop_end=125369 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-94-127.wav
-<group> key=95 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=245 end=274431 loop_mode=loop_sustain loop_start=127789 loop_end=151300 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-95-127.wav
-<group> key=96 seq_length=2 seq_position=2 pitch_keytrack=1
-	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=612 end=279551 loop_mode=loop_sustain loop_start=111693 loop_end=125986 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-96-127.wav
+<group> key=36 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=342 end=277503 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=113842 loop_end=125921 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-36-127.wav
+<group> key=37 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=657 end=280063 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=119484 loop_end=128345 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-37-127.wav
+<group> key=38 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=606 end=282111 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=121625 loop_end=141944 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-38-127.wav
+<group> key=39 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=664 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=117143 loop_end=127294 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-39-127.wav
+<group> key=40 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=278527 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=121692 loop_end=145122 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-40-127.wav
+<group> key=41 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=309 end=280575 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=128907 loop_end=149474 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-41-127.wav
+<group> key=42 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=577 end=281087 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=120898 loop_end=133218 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-42-127.wav
+<group> key=43 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=619 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=112542 loop_end=149609 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-43-127.wav
+<group> key=44 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=443 end=286207 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=127951 loop_end=136387 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-44-127.wav
+<group> key=45 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111276 loop_end=119244 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-45-127.wav
+<group> key=46 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=285183 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=116311 loop_end=148191 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-46-127.wav
+<group> key=47 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=600 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=135240 loop_end=143053 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-47-127.wav
+<group> key=48 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=280063 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=125653 loop_end=134366 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-48-127.wav
+<group> key=49 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=322 end=279551 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=110974 loop_end=119198 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-49-127.wav
+<group> key=50 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=547 end=278527 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=113040 loop_end=149653 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-50-127.wav
+<group> key=51 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=317 end=282111 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=138941 loop_end=147963 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-51-127.wav
+<group> key=52 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=280063 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=127055 loop_end=137696 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-52-127.wav
+<group> key=53 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=277 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=120463 loop_end=131005 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-53-127.wav
+<group> key=54 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111156 loop_end=151578 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-54-127.wav
+<group> key=55 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=282623 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=109797 loop_end=147959 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-55-127.wav
+<group> key=56 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=282111 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111297 loop_end=144778 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-56-127.wav
+<group> key=57 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=332 end=279551 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=109607 loop_end=141616 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-57-127.wav
+<group> key=58 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=656 end=278527 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=117920 loop_end=151511 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-58-127.wav
+<group> key=59 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=487 end=279551 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=109779 loop_end=141489 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-59-127.wav
+<group> key=60 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=230 end=282111 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=122734 loop_end=151326 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-60-127.wav
+<group> key=61 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=276991 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111219 loop_end=136001 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-61-127.wav
+<group> key=62 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=675 end=280063 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=128169 loop_end=151847 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-62-127.wav
+<group> key=63 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=367 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=115537 loop_end=139014 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-63-127.wav
+<group> key=64 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=210 end=283647 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=128819 loop_end=151238 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-64-127.wav
+<group> key=65 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=238 end=273407 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=128552 loop_end=149968 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-65-127.wav
+<group> key=66 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=344 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=114521 loop_end=133080 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-66-127.wav
+<group> key=67 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=454 end=277503 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=122088 loop_end=139606 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-67-127.wav
+<group> key=68 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=460 end=277503 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=133145 loop_end=151576 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-68-127.wav
+<group> key=69 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=278527 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=128991 loop_end=147184 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-69-127.wav
+<group> key=70 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=575 end=280575 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=127177 loop_end=143411 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-70-127.wav
+<group> key=71 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=239 end=274943 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=133798 loop_end=147881 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-71-127.wav
+<group> key=72 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=191 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=134923 loop_end=148047 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-72-127.wav
+<group> key=73 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=281087 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=115453 loop_end=141017 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-73-127.wav
+<group> key=74 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=255 end=280575 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=129814 loop_end=143146 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-74-127.wav
+<group> key=75 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=280063 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=132932 loop_end=145372 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-75-127.wav
+<group> key=76 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=131874 loop_end=142422 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-76-127.wav
+<group> key=77 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=140263 loop_end=150470 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-77-127.wav
+<group> key=78 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=116451 loop_end=146183 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-78-127.wav
+<group> key=79 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=276479 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=119047 loop_end=150793 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-79-127.wav
+<group> key=80 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=278527 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=116484 loop_end=125909 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-80-127.wav
+<group> key=81 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=655 end=280575 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=133228 loop_end=149236 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-81-127.wav
+<group> key=82 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=219 end=274431 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=116712 loop_end=146365 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-82-127.wav
+<group> key=83 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=635 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=131942 loop_end=146289 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-83-127.wav
+<group> key=84 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=462 end=278015 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=135203 loop_end=149584 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-84-127.wav
+<group> key=85 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=272895 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=125005 loop_end=139284 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-85-127.wav
+<group> key=86 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=279551 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111533 loop_end=123819 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-86-127.wav
+<group> key=87 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=662 end=276991 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=136092 loop_end=147406 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-87-127.wav
+<group> key=88 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=468 end=279039 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=123717 loop_end=145214 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-88-127.wav
+<group> key=89 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=672 end=275455 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=116036 loop_end=144685 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-89-127.wav
+<group> key=90 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=425 end=275967 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=123431 loop_end=150119 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-90-127.wav
+<group> key=91 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=275967 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=132141 loop_end=141347 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-91-127.wav
+<group> key=92 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=545 end=275967 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=139451 loop_end=151749 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-92-127.wav
+<group> key=93 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=267 end=275967 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=124646 loop_end=144056 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-93-127.wav
+<group> key=94 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=275967 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=113148 loop_end=125369 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-94-127.wav
+<group> key=95 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=245 end=274431 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=127789 loop_end=151300 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-95-127.wav
+<group> key=96 seq_length=2 seq_position=2 
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=612 end=279551 amp_veltrack=20 offset loop_mode=loop_sustain loop_start=111693 loop_end=125986 sample=../Audio/Its a Trumpet 1-SAMPLES/Its a Trumpet-96-127.wav

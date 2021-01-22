@@ -5,7 +5,9 @@ A 4 Voice poly synth with minimal controls but a big sound.
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Info:** [sequential.com](https://www.sequential.com/product/tetra/)
 
-**Audio:** https://www.dropbox.com/sh/mz23awduakch5ub/AAAKjIp1oTil0qY-YynbYt5da?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/mz23awduakch5ub/AAAKjIp1oTil0qY-YynbYt5da?dl=0)
 
 # Loading
 
@@ -29,5 +31,5 @@ The SFZ format is supported by a wide variety of synths and samplers as such, sp
 
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

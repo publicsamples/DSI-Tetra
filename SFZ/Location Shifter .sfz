@@ -1,124 +1,124 @@
 // this file was generated from Location Shifter .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=36 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=637951 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-36-127.wav
-<group> key=37 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=37 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=643583 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-37-127.wav
-<group> key=38 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=38 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=634879 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-38-127.wav
-<group> key=39 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=39 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=630783 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-39-127.wav
-<group> key=40 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=40 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=639487 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-40-127.wav
-<group> key=41 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=41 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=638463 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-41-127.wav
-<group> key=42 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=42 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=630271 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-42-127.wav
-<group> key=43 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=43 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=645631 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-43-127.wav
-<group> key=44 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=44 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=634367 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-44-127.wav
-<group> key=45 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=45 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=630271 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-45-127.wav
-<group> key=46 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=46 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=635391 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-46-127.wav
-<group> key=47 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=47 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=638463 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-47-127.wav
-<group> key=48 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=48 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=629247 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-48-127.wav
-<group> key=49 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=49 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632831 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-49-127.wav
-<group> key=50 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=50 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=629759 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-50-127.wav
-<group> key=51 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=51 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=631807 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-51-127.wav
-<group> key=52 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=52 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632831 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-52-127.wav
-<group> key=53 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=53 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=633855 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-53-127.wav
-<group> key=54 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=54 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=625151 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-54-127.wav
-<group> key=55 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=55 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=630783 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-55-127.wav
-<group> key=56 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=56 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632319 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-56-127.wav
-<group> key=57 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=57 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=626175 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-57-127.wav
-<group> key=58 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=58 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=627711 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-58-127.wav
-<group> key=59 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=59 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=631295 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-59-127.wav
-<group> key=60 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=60 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632319 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-60-127.wav
-<group> key=61 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=61 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=623615 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-61-127.wav
-<group> key=62 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=62 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=626687 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-62-127.wav
-<group> key=63 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=63 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=626175 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-63-127.wav
-<group> key=64 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=64 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=622591 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-64-127.wav
-<group> key=65 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=65 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=630783 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-65-127.wav
-<group> key=66 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=66 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=636415 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-66-127.wav
-<group> key=67 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=67 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=615935 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-67-127.wav
-<group> key=68 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=68 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632831 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-68-127.wav
-<group> key=69 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=69 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=621567 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-69-127.wav
-<group> key=70 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=70 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620031 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-70-127.wav
-<group> key=71 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=71 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=620543 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-71-127.wav
-<group> key=72 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=72 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=624639 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-72-127.wav
-<group> key=73 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=73 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=616447 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-73-127.wav
-<group> key=74 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=74 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=624639 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-74-127.wav
-<group> key=75 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=75 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=629759 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-75-127.wav
-<group> key=76 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=76 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=611327 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-76-127.wav
-<group> key=77 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=77 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=614911 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-77-127.wav
-<group> key=78 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=78 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=614911 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-78-127.wav
-<group> key=79 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=79 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=611327 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-79-127.wav
-<group> key=80 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=80 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=609791 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-80-127.wav
-<group> key=81 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=81 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=616447 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-81-127.wav
-<group> key=82 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=82 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=613887 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-82-127.wav
-<group> key=83 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=83 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=601599 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-83-127.wav
-<group> key=84 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=84 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=603647 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-84-127.wav
-<group> key=85 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=85 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=603647 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-85-127.wav
-<group> key=86 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=86 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=596991 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-86-127.wav
-<group> key=87 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=87 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=602111 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-87-127.wav
-<group> key=88 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=88 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=593407 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-88-127.wav
-<group> key=89 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=89 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=595455 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-89-127.wav
-<group> key=90 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=90 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=594431 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-90-127.wav
-<group> key=91 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=91 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-91-127.wav
-<group> key=92 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=92 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=589823 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-92-127.wav
-<group> key=93 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=93 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=583679 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-93-127.wav
-<group> key=94 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=94 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=581631 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-94-127.wav
-<group> key=95 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=95 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=580607 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-95-127.wav
-<group> key=96 pan=5 seq_length=2 seq_position=2 pitch_keytrack=1
+<group> key=96 amp_veltrack=20 seq_length=2 seq_position=2 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=561151 sample=../Audio/Location Shifter 1-SAMPLES/Location Shifter-96-127.wav
