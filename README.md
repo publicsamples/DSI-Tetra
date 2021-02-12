@@ -4,6 +4,7 @@ A 4 Voice poly synth with minimal controls but a big sound.
 
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Info:** [sequential.com](https://www.sequential.com/product/tetra/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/dsitetra.html)
 
 **This collection requires you to download the audio seperately**
 
