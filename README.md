@@ -6,9 +6,8 @@ A 4 Voice poly synth with minimal controls but a big sound.
 -   **Info:** [sequential.com](https://www.sequential.com/product/tetra/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/dsitetra.html)
 
-**This collection requires you to download the audio seperately**
+**[Download Audio](https://github.com/publicsamples/DSI-Tetra/releases/tag/1.0)**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/mz23awduakch5ub/AAAKjIp1oTil0qY-YynbYt5da?dl=0)
 
 # Loading
 
